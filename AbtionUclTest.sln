@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbtionUclTest", "AbtionUclTest\AbtionUclTest.csproj", "{5D87ECF9-D366-450A-B6CE-30A7258C7F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbtionUclUnitTest", "AbtionUclUnitTest\AbtionUclUnitTest.csproj", "{94D5203F-17DA-4DD2-95B5-E6297051A05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D87ECF9-D366-450A-B6CE-30A7258C7F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D87ECF9-D366-450A-B6CE-30A7258C7F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D87ECF9-D366-450A-B6CE-30A7258C7F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D87ECF9-D366-450A-B6CE-30A7258C7F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D5203F-17DA-4DD2-95B5-E6297051A05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D5203F-17DA-4DD2-95B5-E6297051A05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D5203F-17DA-4DD2-95B5-E6297051A05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D5203F-17DA-4DD2-95B5-E6297051A05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5028123-3565-4E42-8417-3BA958407EE1}
+	EndGlobalSection
+EndGlobal
